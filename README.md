@@ -1,7 +1,7 @@
 # SSC-Internship-Dev-ASP.NET-Application-Setting-Configuration
 # Hướng Dẫn Về Application Setting & Configuration Trong ASP.NET Core
 ## Giới Thiệu
-Cấu hình ứng dụng là một phần quan trọng trong bất kỳ ứng dụng nào, đặc biệt là khi bạn cần quản lý các giá trị như kết nối cơ sở dữ liệu, thông số API, hoặc bất kỳ thông tin cấu hình nào khác mà bạn muốn thay đổi mà không cần sửa đổi mã nguồn. Trong ASP.NET Core, việc quản lý cấu hình được thực hiện thông qua các tệp cấu hình như `appsettings.json` và môi trường biến. Bài viết này sẽ hướng dẫn chi tiết cách thiết lập và sử dụng Application Setting & Configuration trong ASP.NET Core.
+Cấu hình ứng dụng là một phần quan trọng trong bất kỳ ứng dụng nào, đặc biệt là khi bạn cần quản lý các giá trị như kết nối cơ sở dữ liệu, thông số API, hoặc bất kỳ thông tin cấu hình nào khác mà bạn muốn thay đổi mà không cần sửa đổi mã nguồn. Trong ASP.NET Core, việc quản lý cấu hình được thực hiện thông qua các tệp cấu hình như `appsettings.json` và môi trường biến.
 
 Tổng Quan Về Application Setting & Configuration
 
